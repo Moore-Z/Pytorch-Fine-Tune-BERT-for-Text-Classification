@@ -11,9 +11,10 @@ Code: https://github.com/Moore-Z/Pytorch-Fine-Tune-BERT-for-Text-Classification/
 ![image](https://github.com/user-attachments/assets/6b4f8bf9-93ac-4ea0-bc11-a980ad085a53)
 
 
+
+# Result
 I found it perform really good if the number of training set get increased. If you want to run the code one free Colab version, 
 You change the batch size the learning rate. It can bring good result as well. Current setting could bring 98% accurate rate for 
 validation data. 
-# Result
 ![image](https://github.com/user-attachments/assets/f9600b22-ac34-4854-b225-f9fd3428d45a)
 
